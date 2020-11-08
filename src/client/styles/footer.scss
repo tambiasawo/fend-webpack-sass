@@ -1,0 +1,19 @@
+$color: #333;
+.foot{
+    height: 10vh;
+    text-align: center;
+    background-color: $color;
+    
+    &.but{
+        background-color: aqua;
+        width: 100%;
+    }
+
+    button{
+        border-radius: 5px;
+        width: 5%;
+        margin-top: 2%;
+    }
+}
+
+
